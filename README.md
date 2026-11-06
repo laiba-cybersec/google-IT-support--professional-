@@ -9,5 +9,5 @@
 ##Module 1: 
 ###SECOND OR THIRD ASSIGNMENT:
 ***Grade :**100/100
-IN this Assignment , I explore Binary Number ASCII  method  and COMPUTER Architecture.
-![Assignment Sreenshot](Screenshot%20(38)(39).png
+IN these Assignment , I explore Binary Number ASCII  method  and COMPUTER Architecture.
+![Assignment Sreenshot](Screenshot%20(38).png
