@@ -10,4 +10,5 @@
 ###SECOND OR THIRD ASSIGNMENT:
 ***Grade :**100/100
 IN these Assignment , I explore Binary Number ASCII  method  and COMPUTER Architecture.
-![Assignment Sreenshot](Screenshot%20().png)
+![Assignment Sreenshot](Screenshot%20(40).png)
+![Assignment Screenshot](Screenshot%20(41).png)
