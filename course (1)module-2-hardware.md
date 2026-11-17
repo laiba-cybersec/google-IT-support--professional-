@@ -4,4 +4,5 @@
 
 ### Assignment 1:
 ** Grade :**100/100
-IN this Assignment : I solved the problem
+In this Assignment : I learned about the main hardware parts such as RAM ,KEYBOARD , CPU AND HARD DRIVE 
+![Assignment Screenshot](screenshot%20().png)
