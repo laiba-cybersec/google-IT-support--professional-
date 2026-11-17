@@ -40,3 +40,5 @@ In this Assignment :I learned  how we can assemble all  the computer components 
  <img width="839" height="645" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8fc1af2c-aa09-4c84-adf8-4856feddefa6" />
 ### MODULE 3:
 ##[Module3:Operating System](course(1)module-3-OperatingSystem.md)
+
+
