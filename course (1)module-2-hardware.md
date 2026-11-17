@@ -37,6 +37,5 @@ In this Assignment :I learned  how we can assemble all  the computer components 
 ### Grade Assignment :
  **Graded**:87.50%/100%
  In this Assignment : I deeply explore the module 2 challenges and learned how all  components work together to make a  computer  run smoothly . Understanding key  hardware concepts_ such as RAM , CPU , FORM FACTOR , USB , PROGRAMS ,PCL , POWER SUPPLY  , CHARGE CYCLE , ATX , BIOS and CPU Sockets is  essential for working  with computer.
- <img width="839" height="645" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/650ce34a-0d03-4dc8-85d7-09f7e3e54a28" />
-
-###[Module3:OperatingSystem](course(1)module-3-OperatingSystem.md)
+ <img width="839" height="645" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/8fc1af2c-aa09-4c84-adf8-4856feddefa6" />
+### MODULE 3:(course(1)module-3-OperatingSystem.md)
