@@ -15,3 +15,15 @@ In this Assignment : I learned about the modern computers work so fast and how t
 <img width="858" height="591" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/2f2e7b59-7100-45cc-a766-4631dc384699" />
 
   
+### Assignment 3:
+**Grade**:100/100
+In this Assignment :I learned  how troubleshooting mobile device differs from computer, and how understanding the basics of troubleshooting helps us manage phone battery issues and other mobile phone purposes effectively.
+
+<img width="905" height="568" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/3b7c11ba-17d2-4045-8f40-5608678d2ec1" />
+
+
+ ### Assignment 4:
+ **Grade**:100/100
+ In this Assignment:  I learned that the BIOS is a crucial computer component required to boot up the system .It checks  whether the computer starts properly or as a hardware fault , which is indicated by specific beep sound .
+
+ <img width="876" height="589" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/004de8e8-5173-4436-b66a-a4cef9a2cbd8" />
